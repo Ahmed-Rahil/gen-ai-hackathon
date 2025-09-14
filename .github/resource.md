@@ -1,18 +1,29 @@
 # Centralized Project Resources
 
-This file contains all the essential links and assets for our project. Bookmark this page!
+`"THIS PAGE IS INCOMPLETE AND YOU ARE SUPPOSED TO AMEND THIS PAGE AS PER THE NEED"`
+
+This file contains all the essential links, assets, and documentation for our project. Bookmark this page!
 
 ## 1. Official Hackathon Materials
 
-- **Problem Statement Image:** [Link to image file](./path/to/image_a44613.jpg)
-- **Evaluation Parameters Image:** [Link to image file](./path/to/image_a445bb.png)
-- **Submission Process Image:** [Link to image file](./path/to/image_a3f43a.png)
-- **Official Hackathon Website:** [Insert Official Website Link Here]
-- **Submission Portal Link:** [Insert Submission Portal Link Here]
+### Problem Statement
+
+![Problem Statement: Develop an AI solution that simplifies complex legal documents into clear, accessible guidance, empowering users to make informed decisions.](../assets\problemStatement.jpeg)
+
+### Evaluation Parameters
+
+![Evaluation Parameters for the Hackathon](../assets\evaluation_parameter.jpeg)
+
+### Submission Process
+
+![Submission Process Steps for the Hackathon](../assets\prototypeReview.jpeg)
+
+- **Official Hackathon Website:** [ Official Website To be Inserted]
+- **Submission Portal Link:** [Submission Portal Link To be Inserted]
 
 ## 2. Team Collaboration & Assets
 
-- **Prototype Submission Deck:** [Link to the PPT file in this repo](./GenAI Exchange Hackathon \_ Prototype Submission.pptx)
+- **Prototype Submission Deck:** [Link to the PPT file in this repo]
 - **Team Communication Channel:** [Insert Slack/Discord Link Here]
 - **Idea Brainstorming Board:** [Insert Miro/FigJam/Google Doc Link Here]
 
@@ -30,4 +41,4 @@ If we proceed with this idea, here is the documentation for the likely technolog
 
 ## 4. Market & Competitive Research
 
-- [Research i have done on the problem statement](./resource.md)
+- [Research.pdf](./resource.md)
