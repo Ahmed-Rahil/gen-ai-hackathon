@@ -8,15 +8,15 @@ This file contains all the essential links, assets, and documentation for our pr
 
 ### Problem Statement
 
-![Problem Statement: Develop an AI solution that simplifies complex legal documents into clear, accessible guidance, empowering users to make informed decisions.](../assets\problemStatement.jpeg)
+![Problem Statement: Develop an AI solution that simplifies complex legal documents into clear, accessible guidance, empowering users to make informed decisions.](../assets/problemStatement.jpeg)
 
 ### Evaluation Parameters
 
-![Evaluation Parameters for the Hackathon](../assets\evaluation_parameter.jpeg)
+![Evaluation Parameters for the Hackathon](../assets/evaluation_parameter.jpeg)
 
 ### Submission Process
 
-![Submission Process Steps for the Hackathon](../assets\prototypeReview.jpeg)
+![Submission Process Steps for the Hackathon](../assets/prototypeReview.jpeg)
 
 - **Official Hackathon Website:** [ Official Website To be Inserted]
 - **Submission Portal Link:** [Submission Portal Link To be Inserted]
